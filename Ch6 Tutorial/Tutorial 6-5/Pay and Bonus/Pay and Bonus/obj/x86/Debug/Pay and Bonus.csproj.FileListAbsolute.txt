@@ -29,3 +29,13 @@ D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pa
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Form1.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Properties.Resources.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csproj.GenerateResource.Cache
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csproj.AssemblyReference.cache
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Form1.resources
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Properties.Resources.resources
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csproj.GenerateResource.cache
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csproj.CoreCompileInputs.cache
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.exe
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.pdb
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Tutorial 6-5\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.exe.config
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Tutorial 6-5\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.exe
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Tutorial 6-5\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.pdb

@@ -31,3 +31,13 @@ D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-3\No
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-3\North America\North America\obj\x86\Debug\North_America.Form1.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-3\North America\North America\obj\x86\Debug\North_America.Properties.Resources.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-3\North America\North America\obj\x86\Debug\North America.csproj.GenerateResource.Cache
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Tutorial 6-3\North America\North America\bin\Debug\North America.exe.config
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Tutorial 6-3\North America\North America\bin\Debug\North America.exe
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Tutorial 6-3\North America\North America\bin\Debug\North America.pdb
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Tutorial 6-3\North America\North America\obj\x86\Debug\North America.csproj.AssemblyReference.cache
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Tutorial 6-3\North America\North America\obj\x86\Debug\North_America.Form1.resources
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Tutorial 6-3\North America\North America\obj\x86\Debug\North_America.Properties.Resources.resources
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Tutorial 6-3\North America\North America\obj\x86\Debug\North America.csproj.GenerateResource.cache
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Tutorial 6-3\North America\North America\obj\x86\Debug\North America.csproj.CoreCompileInputs.cache
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Tutorial 6-3\North America\North America\obj\x86\Debug\North America.exe
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Tutorial 6-3\North America\North America\obj\x86\Debug\North America.pdb

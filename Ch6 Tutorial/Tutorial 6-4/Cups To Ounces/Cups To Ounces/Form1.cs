@@ -20,11 +20,33 @@ namespace Cups_To_Ounces
         // The CupsToOunces method accepts a number
         // of cups as an argument and returns the
         // equivalent number of fluid ounces.
-     
+
+
+        private double CupsToOunces(double cups)
+        {
+            return cups * 8.0;
+        }
+
+        private void CupToOunces2(double cups, out double ounces)
+        {
+            ounces = cups * 8.0;
+        }
 
         private void convertButton_Click(object sender, EventArgs e)
         {
-          
+            double cups, ounces;
+
+            if (double.TryParse(cupsTextBox.Text, out cups))
+            {
+                CupToOunces2(cups, out ounces);
+
+                ouncesLabel.Text = ounces.ToString("nl");
+            }
+            else
+            {
+                MessageBox.Show("Enter a valid number");
+            }
+
         }
 
         private void exitButton_Click(object sender, EventArgs e)
@@ -32,5 +54,15 @@ namespace Cups_To_Ounces
             // Close the form.
             this.Close();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+
     }
 }
+
+
+

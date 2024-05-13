@@ -5,3 +5,13 @@ C:\Users\Kabir\AppData\Local\Temporary Projects\chp6_prob6\obj\x86\Debug\chp6_pr
 C:\Users\Kabir\AppData\Local\Temporary Projects\chp6_prob6\obj\x86\Debug\chp6_prob6.csproj.GenerateResource.Cache
 C:\Users\Kabir\AppData\Local\Temporary Projects\chp6_prob6\obj\x86\Debug\chp6_prob6.exe
 C:\Users\Kabir\AppData\Local\Temporary Projects\chp6_prob6\obj\x86\Debug\chp6_prob6.pdb
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Program6_6\chp6_prob6\bin\Debug\chp6_prob6.exe.config
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Program6_6\chp6_prob6\bin\Debug\chp6_prob6.exe
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Program6_6\chp6_prob6\bin\Debug\chp6_prob6.pdb
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Program6_6\chp6_prob6\obj\x86\Debug\chp6_prob6.csproj.AssemblyReference.cache
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Program6_6\chp6_prob6\obj\x86\Debug\chp6_prob6.Form1.resources
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Program6_6\chp6_prob6\obj\x86\Debug\chp6_prob6.Properties.Resources.resources
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Program6_6\chp6_prob6\obj\x86\Debug\chp6_prob6.csproj.GenerateResource.cache
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Program6_6\chp6_prob6\obj\x86\Debug\chp6_prob6.csproj.CoreCompileInputs.cache
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Program6_6\chp6_prob6\obj\x86\Debug\chp6_prob6.exe
+D:\0程式設計二\W13\A110240054-2\Ch6 Tutorial\Program6_6\chp6_prob6\obj\x86\Debug\chp6_prob6.pdb
