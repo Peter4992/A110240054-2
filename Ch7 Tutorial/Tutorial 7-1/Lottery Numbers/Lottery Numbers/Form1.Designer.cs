@@ -41,9 +41,10 @@
             // 
             this.firstLabel.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.firstLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.firstLabel.Location = new System.Drawing.Point(14, 9);
+            this.firstLabel.Location = new System.Drawing.Point(21, 12);
+            this.firstLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.firstLabel.Name = "firstLabel";
-            this.firstLabel.Size = new System.Drawing.Size(42, 23);
+            this.firstLabel.Size = new System.Drawing.Size(63, 32);
             this.firstLabel.TabIndex = 0;
             this.firstLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -51,9 +52,10 @@
             // 
             this.secondLabel.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.secondLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.secondLabel.Location = new System.Drawing.Point(62, 9);
+            this.secondLabel.Location = new System.Drawing.Point(93, 12);
+            this.secondLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.secondLabel.Name = "secondLabel";
-            this.secondLabel.Size = new System.Drawing.Size(42, 23);
+            this.secondLabel.Size = new System.Drawing.Size(63, 32);
             this.secondLabel.TabIndex = 1;
             this.secondLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -61,9 +63,10 @@
             // 
             this.thirdLabel.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.thirdLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.thirdLabel.Location = new System.Drawing.Point(110, 9);
+            this.thirdLabel.Location = new System.Drawing.Point(165, 12);
+            this.thirdLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.thirdLabel.Name = "thirdLabel";
-            this.thirdLabel.Size = new System.Drawing.Size(42, 23);
+            this.thirdLabel.Size = new System.Drawing.Size(63, 32);
             this.thirdLabel.TabIndex = 2;
             this.thirdLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -71,9 +74,10 @@
             // 
             this.fourthLabel.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.fourthLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.fourthLabel.Location = new System.Drawing.Point(158, 9);
+            this.fourthLabel.Location = new System.Drawing.Point(237, 12);
+            this.fourthLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.fourthLabel.Name = "fourthLabel";
-            this.fourthLabel.Size = new System.Drawing.Size(42, 23);
+            this.fourthLabel.Size = new System.Drawing.Size(63, 32);
             this.fourthLabel.TabIndex = 3;
             this.fourthLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -81,17 +85,19 @@
             // 
             this.fifthLabel.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.fifthLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.fifthLabel.Location = new System.Drawing.Point(206, 9);
+            this.fifthLabel.Location = new System.Drawing.Point(309, 12);
+            this.fifthLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.fifthLabel.Name = "fifthLabel";
-            this.fifthLabel.Size = new System.Drawing.Size(42, 23);
+            this.fifthLabel.Size = new System.Drawing.Size(63, 32);
             this.fifthLabel.TabIndex = 4;
             this.fifthLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // generateButton
             // 
-            this.generateButton.Location = new System.Drawing.Point(53, 52);
+            this.generateButton.Location = new System.Drawing.Point(80, 72);
+            this.generateButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.generateButton.Name = "generateButton";
-            this.generateButton.Size = new System.Drawing.Size(75, 34);
+            this.generateButton.Size = new System.Drawing.Size(112, 47);
             this.generateButton.TabIndex = 5;
             this.generateButton.Text = "Generate Numbers";
             this.generateButton.UseVisualStyleBackColor = true;
@@ -99,9 +105,10 @@
             // 
             // exitButton
             // 
-            this.exitButton.Location = new System.Drawing.Point(134, 52);
+            this.exitButton.Location = new System.Drawing.Point(201, 72);
+            this.exitButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.exitButton.Name = "exitButton";
-            this.exitButton.Size = new System.Drawing.Size(75, 34);
+            this.exitButton.Size = new System.Drawing.Size(112, 47);
             this.exitButton.TabIndex = 6;
             this.exitButton.Text = "Exit";
             this.exitButton.UseVisualStyleBackColor = true;
@@ -109,9 +116,9 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(263, 99);
+            this.ClientSize = new System.Drawing.Size(396, 145);
             this.Controls.Add(this.exitButton);
             this.Controls.Add(this.generateButton);
             this.Controls.Add(this.fifthLabel);
@@ -119,6 +126,7 @@
             this.Controls.Add(this.thirdLabel);
             this.Controls.Add(this.secondLabel);
             this.Controls.Add(this.firstLabel);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "Lottery Numbers";
             this.ResumeLayout(false);

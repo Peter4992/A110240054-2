@@ -11,7 +11,7 @@ namespace chp6_prob6
 {
     public partial class Form1 : Form
     {
-        const decimal stayPerDay = 3550.00m;
+        const decimal stayPerDay = 5550.00m;
         public Form1()
         {
             InitializeComponent();
@@ -42,7 +42,7 @@ namespace chp6_prob6
             }
             else
             {
-                MessageBox.Show("輸入錯誤");
+                MessageBox.Show("輸入錯誤或未輸入完成");
                 return false;
             }
         }
@@ -56,10 +56,9 @@ namespace chp6_prob6
 
             if (InputIsValid(ref days, ref fb, ref sb, ref cb, ref mb))
             {
-                stayCharge = CalcStayCharges(days);
-                miscCharge = CalcMiscCharges(fb, sb, cb, mb);   
-                totalCharge = CalcTotalCharges(stayCharge, miscCharge);
-
+                stayCharge = CalcStayCharges(days);//計算住宿費
+                miscCharge = CalcMiscCharges(fb, sb, cb, mb);//計算其他費用   
+                totalCharge = CalcTotalCharges(stayCharge, miscCharge);//計算總花費
                 MessageBox.Show("總金額：" + totalCharge.ToString("C"));
             }
 
