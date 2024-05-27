@@ -39,12 +39,14 @@
             this.getScoresButton = new System.Windows.Forms.Button();
             this.exitButton = new System.Windows.Forms.Button();
             this.openFile = new System.Windows.Forms.OpenFileDialog();
+            this.medianScoreLabel = new System.Windows.Forms.Label();
+            this.medianScoreDescriptionLabel = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // averageScoreDescriptionLabel
             // 
             this.averageScoreDescriptionLabel.AutoSize = true;
-            this.averageScoreDescriptionLabel.Location = new System.Drawing.Point(204, 147);
+            this.averageScoreDescriptionLabel.Location = new System.Drawing.Point(206, 147);
             this.averageScoreDescriptionLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.averageScoreDescriptionLabel.Name = "averageScoreDescriptionLabel";
             this.averageScoreDescriptionLabel.Size = new System.Drawing.Size(110, 18);
@@ -54,7 +56,7 @@
             // lowScoreDescriptionLabel
             // 
             this.lowScoreDescriptionLabel.AutoSize = true;
-            this.lowScoreDescriptionLabel.Location = new System.Drawing.Point(213, 97);
+            this.lowScoreDescriptionLabel.Location = new System.Drawing.Point(210, 97);
             this.lowScoreDescriptionLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lowScoreDescriptionLabel.Name = "lowScoreDescriptionLabel";
             this.lowScoreDescriptionLabel.Size = new System.Drawing.Size(102, 18);
@@ -64,7 +66,7 @@
             // highScoreDescriptionLabel
             // 
             this.highScoreDescriptionLabel.AutoSize = true;
-            this.highScoreDescriptionLabel.Location = new System.Drawing.Point(210, 48);
+            this.highScoreDescriptionLabel.Location = new System.Drawing.Point(209, 48);
             this.highScoreDescriptionLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.highScoreDescriptionLabel.Name = "highScoreDescriptionLabel";
             this.highScoreDescriptionLabel.Size = new System.Drawing.Size(105, 18);
@@ -76,9 +78,9 @@
             this.testScoresListBox.FormattingEnabled = true;
             this.testScoresListBox.ItemHeight = 18;
             this.testScoresListBox.Location = new System.Drawing.Point(18, 40);
-            this.testScoresListBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.testScoresListBox.Margin = new System.Windows.Forms.Padding(4);
             this.testScoresListBox.Name = "testScoresListBox";
-            this.testScoresListBox.Size = new System.Drawing.Size(178, 130);
+            this.testScoresListBox.Size = new System.Drawing.Size(178, 238);
             this.testScoresListBox.TabIndex = 6;
             // 
             // testScoresDescriptionLabel
@@ -123,8 +125,8 @@
             // 
             // getScoresButton
             // 
-            this.getScoresButton.Location = new System.Drawing.Point(135, 206);
-            this.getScoresButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.getScoresButton.Location = new System.Drawing.Point(95, 313);
+            this.getScoresButton.Margin = new System.Windows.Forms.Padding(4);
             this.getScoresButton.Name = "getScoresButton";
             this.getScoresButton.Size = new System.Drawing.Size(112, 32);
             this.getScoresButton.TabIndex = 13;
@@ -134,8 +136,8 @@
             // 
             // exitButton
             // 
-            this.exitButton.Location = new System.Drawing.Point(256, 206);
-            this.exitButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.exitButton.Location = new System.Drawing.Point(256, 313);
+            this.exitButton.Margin = new System.Windows.Forms.Padding(4);
             this.exitButton.Name = "exitButton";
             this.exitButton.Size = new System.Drawing.Size(112, 32);
             this.exitButton.TabIndex = 14;
@@ -147,11 +149,33 @@
             // 
             this.openFile.FileName = "openFileDialog1";
             // 
+            // medianScoreLabel
+            // 
+            this.medianScoreLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.medianScoreLabel.Location = new System.Drawing.Point(328, 193);
+            this.medianScoreLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.medianScoreLabel.Name = "medianScoreLabel";
+            this.medianScoreLabel.Size = new System.Drawing.Size(149, 31);
+            this.medianScoreLabel.TabIndex = 16;
+            this.medianScoreLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // medianScoreDescriptionLabel
+            // 
+            this.medianScoreDescriptionLabel.AutoSize = true;
+            this.medianScoreDescriptionLabel.Location = new System.Drawing.Point(206, 200);
+            this.medianScoreDescriptionLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.medianScoreDescriptionLabel.Name = "medianScoreDescriptionLabel";
+            this.medianScoreDescriptionLabel.Size = new System.Drawing.Size(104, 18);
+            this.medianScoreDescriptionLabel.TabIndex = 15;
+            this.medianScoreDescriptionLabel.Text = "Median Score";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(504, 259);
+            this.ClientSize = new System.Drawing.Size(504, 384);
+            this.Controls.Add(this.medianScoreLabel);
+            this.Controls.Add(this.medianScoreDescriptionLabel);
             this.Controls.Add(this.exitButton);
             this.Controls.Add(this.getScoresButton);
             this.Controls.Add(this.averageScoreLabel);
@@ -162,7 +186,7 @@
             this.Controls.Add(this.highScoreDescriptionLabel);
             this.Controls.Add(this.testScoresListBox);
             this.Controls.Add(this.testScoresDescriptionLabel);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Test Average";
             this.ResumeLayout(false);
@@ -183,6 +207,8 @@
         private System.Windows.Forms.Button getScoresButton;
         private System.Windows.Forms.Button exitButton;
         private System.Windows.Forms.OpenFileDialog openFile;
+        private System.Windows.Forms.Label medianScoreLabel;
+        private System.Windows.Forms.Label medianScoreDescriptionLabel;
     }
 }
 
