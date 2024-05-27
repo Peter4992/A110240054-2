@@ -110,6 +110,12 @@ namespace Test_Average
         private double Median(int[] scores)
         {
             Array.Sort(scores);
+
+            foreach (int value in scores)
+            {
+                sortedScoresListBox.Items.Add(value);
+            }
+
             double median = 0;
 
             if (scores.Length % 2 == 0)

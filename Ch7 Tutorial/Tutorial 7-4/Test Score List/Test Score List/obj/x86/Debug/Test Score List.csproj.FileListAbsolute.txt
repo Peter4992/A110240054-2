@@ -40,3 +40,13 @@ D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global
 D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.csproj.CoreCompileInputs.cache
 D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.exe
 D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.pdb
+D:\0程式設計二\W15-2\A110240054-2\Ch7 Tutorial\Tutorial 7-4\Test Score List\Test Score List\bin\Debug\Test Score List.exe.config
+D:\0程式設計二\W15-2\A110240054-2\Ch7 Tutorial\Tutorial 7-4\Test Score List\Test Score List\bin\Debug\Test Score List.exe
+D:\0程式設計二\W15-2\A110240054-2\Ch7 Tutorial\Tutorial 7-4\Test Score List\Test Score List\bin\Debug\Test Score List.pdb
+D:\0程式設計二\W15-2\A110240054-2\Ch7 Tutorial\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.csproj.AssemblyReference.cache
+D:\0程式設計二\W15-2\A110240054-2\Ch7 Tutorial\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test_Score_List.Form1.resources
+D:\0程式設計二\W15-2\A110240054-2\Ch7 Tutorial\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test_Score_List.Properties.Resources.resources
+D:\0程式設計二\W15-2\A110240054-2\Ch7 Tutorial\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.csproj.GenerateResource.cache
+D:\0程式設計二\W15-2\A110240054-2\Ch7 Tutorial\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.csproj.CoreCompileInputs.cache
+D:\0程式設計二\W15-2\A110240054-2\Ch7 Tutorial\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.exe
+D:\0程式設計二\W15-2\A110240054-2\Ch7 Tutorial\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.pdb
