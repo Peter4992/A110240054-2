@@ -24,3 +24,13 @@ D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 09\Tutorial 9-4\Ce
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 09\Tutorial 9-4\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell_Phone_Inventory.Form1.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 09\Tutorial 9-4\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell_Phone_Inventory.Properties.Resources.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 09\Tutorial 9-4\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.csproj.GenerateResource.Cache
+D:\0程式設計二\W16-2\A110240054-2\Ch9 Tutorial\Tutorial 9-4\Cell Phone Inventory\Cell Phone Inventory\bin\Debug\Cell Phone Inventory.exe.config
+D:\0程式設計二\W16-2\A110240054-2\Ch9 Tutorial\Tutorial 9-4\Cell Phone Inventory\Cell Phone Inventory\bin\Debug\Cell Phone Inventory.exe
+D:\0程式設計二\W16-2\A110240054-2\Ch9 Tutorial\Tutorial 9-4\Cell Phone Inventory\Cell Phone Inventory\bin\Debug\Cell Phone Inventory.pdb
+D:\0程式設計二\W16-2\A110240054-2\Ch9 Tutorial\Tutorial 9-4\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.csproj.AssemblyReference.cache
+D:\0程式設計二\W16-2\A110240054-2\Ch9 Tutorial\Tutorial 9-4\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell_Phone_Inventory.Form1.resources
+D:\0程式設計二\W16-2\A110240054-2\Ch9 Tutorial\Tutorial 9-4\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell_Phone_Inventory.Properties.Resources.resources
+D:\0程式設計二\W16-2\A110240054-2\Ch9 Tutorial\Tutorial 9-4\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.csproj.GenerateResource.cache
+D:\0程式設計二\W16-2\A110240054-2\Ch9 Tutorial\Tutorial 9-4\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.csproj.CoreCompileInputs.cache
+D:\0程式設計二\W16-2\A110240054-2\Ch9 Tutorial\Tutorial 9-4\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.exe
+D:\0程式設計二\W16-2\A110240054-2\Ch9 Tutorial\Tutorial 9-4\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.pdb

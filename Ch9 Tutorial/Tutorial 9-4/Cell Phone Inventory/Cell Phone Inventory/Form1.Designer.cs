@@ -52,18 +52,21 @@
             this.enterDataGroupBox.Controls.Add(this.promptPriceLabel);
             this.enterDataGroupBox.Controls.Add(this.promptModelLabel);
             this.enterDataGroupBox.Controls.Add(this.promptBrandLabel);
-            this.enterDataGroupBox.Location = new System.Drawing.Point(12, 11);
+            this.enterDataGroupBox.Location = new System.Drawing.Point(18, 15);
+            this.enterDataGroupBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.enterDataGroupBox.Name = "enterDataGroupBox";
-            this.enterDataGroupBox.Size = new System.Drawing.Size(186, 142);
+            this.enterDataGroupBox.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.enterDataGroupBox.Size = new System.Drawing.Size(279, 197);
             this.enterDataGroupBox.TabIndex = 5;
             this.enterDataGroupBox.TabStop = false;
             this.enterDataGroupBox.Text = "Enter Cell Phone Data";
             // 
             // addPhoneButton
             // 
-            this.addPhoneButton.Location = new System.Drawing.Point(56, 106);
+            this.addPhoneButton.Location = new System.Drawing.Point(84, 147);
+            this.addPhoneButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.addPhoneButton.Name = "addPhoneButton";
-            this.addPhoneButton.Size = new System.Drawing.Size(75, 23);
+            this.addPhoneButton.Size = new System.Drawing.Size(112, 32);
             this.addPhoneButton.TabIndex = 7;
             this.addPhoneButton.Text = "Add Phone";
             this.addPhoneButton.UseVisualStyleBackColor = true;
@@ -71,58 +74,66 @@
             // 
             // priceTextBox
             // 
-            this.priceTextBox.Location = new System.Drawing.Point(62, 74);
+            this.priceTextBox.Location = new System.Drawing.Point(93, 102);
+            this.priceTextBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.priceTextBox.Name = "priceTextBox";
-            this.priceTextBox.Size = new System.Drawing.Size(100, 20);
+            this.priceTextBox.Size = new System.Drawing.Size(148, 29);
             this.priceTextBox.TabIndex = 5;
             // 
             // modelTextBox
             // 
-            this.modelTextBox.Location = new System.Drawing.Point(62, 48);
+            this.modelTextBox.Location = new System.Drawing.Point(93, 66);
+            this.modelTextBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.modelTextBox.Name = "modelTextBox";
-            this.modelTextBox.Size = new System.Drawing.Size(100, 20);
+            this.modelTextBox.Size = new System.Drawing.Size(148, 29);
             this.modelTextBox.TabIndex = 4;
             // 
             // brandTextBox
             // 
-            this.brandTextBox.Location = new System.Drawing.Point(62, 22);
+            this.brandTextBox.Location = new System.Drawing.Point(93, 30);
+            this.brandTextBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.brandTextBox.Name = "brandTextBox";
-            this.brandTextBox.Size = new System.Drawing.Size(100, 20);
+            this.brandTextBox.Size = new System.Drawing.Size(148, 29);
             this.brandTextBox.TabIndex = 3;
             // 
             // promptPriceLabel
             // 
             this.promptPriceLabel.AutoSize = true;
-            this.promptPriceLabel.Location = new System.Drawing.Point(22, 77);
+            this.promptPriceLabel.Location = new System.Drawing.Point(33, 107);
+            this.promptPriceLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.promptPriceLabel.Name = "promptPriceLabel";
-            this.promptPriceLabel.Size = new System.Drawing.Size(34, 13);
+            this.promptPriceLabel.Size = new System.Drawing.Size(49, 18);
             this.promptPriceLabel.TabIndex = 2;
             this.promptPriceLabel.Text = "Price:";
             // 
             // promptModelLabel
             // 
             this.promptModelLabel.AutoSize = true;
-            this.promptModelLabel.Location = new System.Drawing.Point(17, 52);
+            this.promptModelLabel.Location = new System.Drawing.Point(26, 72);
+            this.promptModelLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.promptModelLabel.Name = "promptModelLabel";
-            this.promptModelLabel.Size = new System.Drawing.Size(39, 13);
+            this.promptModelLabel.Size = new System.Drawing.Size(57, 18);
             this.promptModelLabel.TabIndex = 1;
             this.promptModelLabel.Text = "Model:";
             // 
             // promptBrandLabel
             // 
             this.promptBrandLabel.AutoSize = true;
-            this.promptBrandLabel.Location = new System.Drawing.Point(18, 25);
+            this.promptBrandLabel.Location = new System.Drawing.Point(27, 35);
+            this.promptBrandLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.promptBrandLabel.Name = "promptBrandLabel";
-            this.promptBrandLabel.Size = new System.Drawing.Size(38, 13);
+            this.promptBrandLabel.Size = new System.Drawing.Size(54, 18);
             this.promptBrandLabel.TabIndex = 0;
             this.promptBrandLabel.Text = "Brand:";
             // 
             // listGroupBox
             // 
             this.listGroupBox.Controls.Add(this.phoneListBox);
-            this.listGroupBox.Location = new System.Drawing.Point(217, 11);
+            this.listGroupBox.Location = new System.Drawing.Point(326, 15);
+            this.listGroupBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.listGroupBox.Name = "listGroupBox";
-            this.listGroupBox.Size = new System.Drawing.Size(200, 142);
+            this.listGroupBox.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.listGroupBox.Size = new System.Drawing.Size(300, 197);
             this.listGroupBox.TabIndex = 8;
             this.listGroupBox.TabStop = false;
             this.listGroupBox.Text = "Select a Phone";
@@ -130,17 +141,20 @@
             // phoneListBox
             // 
             this.phoneListBox.FormattingEnabled = true;
-            this.phoneListBox.Location = new System.Drawing.Point(21, 20);
+            this.phoneListBox.ItemHeight = 18;
+            this.phoneListBox.Location = new System.Drawing.Point(32, 28);
+            this.phoneListBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.phoneListBox.Name = "phoneListBox";
-            this.phoneListBox.Size = new System.Drawing.Size(158, 108);
+            this.phoneListBox.Size = new System.Drawing.Size(235, 148);
             this.phoneListBox.TabIndex = 8;
             this.phoneListBox.SelectedIndexChanged += new System.EventHandler(this.phoneListBox_SelectedIndexChanged);
             // 
             // exitButton
             // 
-            this.exitButton.Location = new System.Drawing.Point(177, 165);
+            this.exitButton.Location = new System.Drawing.Point(266, 228);
+            this.exitButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.exitButton.Name = "exitButton";
-            this.exitButton.Size = new System.Drawing.Size(75, 23);
+            this.exitButton.Size = new System.Drawing.Size(112, 32);
             this.exitButton.TabIndex = 9;
             this.exitButton.Text = "Exit";
             this.exitButton.UseVisualStyleBackColor = true;
@@ -148,12 +162,13 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(429, 198);
+            this.ClientSize = new System.Drawing.Size(685, 282);
             this.Controls.Add(this.exitButton);
             this.Controls.Add(this.listGroupBox);
             this.Controls.Add(this.enterDataGroupBox);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "Cell Phone Inventory";
             this.enterDataGroupBox.ResumeLayout(false);

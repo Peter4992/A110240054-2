@@ -14,22 +14,39 @@ namespace Cell_Phone_Inventory
         private decimal _price;  // Retail price
 
         // Constructor
-       
+       public CellPhone()
+        {
+            _brand = "";
+            _model = "";
+            _price = 0m;
+        }
 
 
 
         // Brand property
-     
+        public string Brand
+        {
+            get;
+            set;
+        }
 
 
-       
+
         // Model property
-       
+        public string Model
+        {
+            get;
+            set;
+        }
 
 
 
         // Price property
-        
+        public decimal Price
+        {
+            get;
+            set;
+        }
 
     }
 }
